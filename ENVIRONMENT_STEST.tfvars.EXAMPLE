@@ -1,0 +1,6 @@
+region = "us-east-x"
+aws_profile = "arn:aws:iam::ACCOUNT_ID:user/USER_NAME"
+environment = "environment"
+initial_db_name = "initial_db_name"
+master_password = "master_password"
+master_username = "master_username"
